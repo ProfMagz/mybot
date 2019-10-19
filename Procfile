@@ -1,1 +1,1 @@
-worker: node index.js
+artic: node index.js
